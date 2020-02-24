@@ -25,7 +25,7 @@
     "uniqCompNum": 8,
     "versionPublish": "3.12.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on",
+    "robotsSwitcher": "",
     "siteUrl": "http://www.tarkpanel.github.io",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
